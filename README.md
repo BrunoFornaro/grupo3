@@ -1,6 +1,7 @@
-# grupo3
+# Grupo 3
 
 # Integrantes
+- Breno
 - Bruno
 - Ezequiel
 - Lindsey
